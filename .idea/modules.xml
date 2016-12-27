@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/minicat-discord.iml" filepath="$PROJECT_DIR$/.idea/modules/minicat-discord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minicat-discord_main.iml" filepath="$PROJECT_DIR$/.idea/modules/minicat-discord_main.iml" group="minicat-discord" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minicat-discord_test.iml" filepath="$PROJECT_DIR$/.idea/modules/minicat-discord_test.iml" group="minicat-discord" />
     </modules>
   </component>
 </project>
